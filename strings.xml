@@ -1,0 +1,75 @@
+<resources>
+    <string-array name="imageList">
+        <item>Evenement 1</item>
+        <item>Evenement 2</item>
+        <item>Evenement 3</item>
+        <item>Evenement 4</item>
+
+    </string-array>
+
+    <string name="app_name">MCA</string>
+    <string name="Gratuit">Normal</string>
+    <string name="Payant">Premium</string>
+    <string-array name="Description">
+
+        <item>Objectif realiser tous les challenges proposes de cet evenement pour gagner 10 points ! </item>
+        <item>Objectif realiser tous les challenges proposes de cet evenement pour gagner 10 points !</item>
+        <item>Objectif realiser tous les challenges proposes de cet evenement pour gagner 10 points !</item>
+        <item>Objectif realiser tous les challenges proposes de cet evenement pour gagner 10 points !</item>
+
+    </string-array>
+    <string-array name="petiteDescription">
+        <item>Objectif realiser tous les challenges proposes de cet evenement pour gagner 10 points !</item>
+        <item>Objectif realiser tous les challenges proposes de cet evenement pour gagner 10 points !</item>
+        <item>Objectif realiser tous les challenges proposes de cet evenement pour gagner 10 points !</item>
+        <item>Objectif realiser tous les challenges proposes de cet evenement pour gagner 10 points !</item>
+
+    </string-array>
+
+    <string-array name="disponible">
+    <item>Disponible du 1er Janvier au 1er Mars</item>
+    <item>Disponible du 1er Janvier au 1er Mars</item>
+    <item>Disponible du 1er Janvier au 1er Mars</item>
+    <item>Disponible du 1er Janvier au 1er Mars</item>
+
+    </string-array>
+
+    <string-array name="Premium">
+        <item>Masque Alien</item>
+        <item>Costume Clown</item>
+        <item>Chaussons Ours</item>
+        <item>Salopette</item>
+        <item>Tenue Militaire</item>
+        <item>Masque Crocodile</item>
+    </string-array>
+
+    <string-array name="descriptionP">
+        <item>SUPERBE ALIEN</item>
+        <item>WOAW LE CLOWN</item>
+        <item>VIVE L OURSON</item>
+        <item>LA BELLE SALOPETTE</item>
+        <item>OUI CHEF</item>
+        <item>CRRR CRRR</item>
+    </string-array>
+
+    <string-array name="Normal">
+        <item>Chaussure Grise</item>
+        <item>Jean Bleu Marine</item>
+        <item>Casquette Noir</item>
+        <item>Haut Sportif Noir</item>
+        <item>Tuba</item>
+        <item>Jogging Noir</item>
+        <item>Casquette Jaune</item>
+    </string-array>
+
+    <string-array name="descriptionG">
+        <item>Belle paire de Basket pour un Footing endiablé</item>
+        <item>Un Joli Jean Bleu pour se relaxer a la maison</item>
+        <item>une Casquette noir pour rester classe même en été</item>
+        <item>Prêt pour allez dans une salle de Muscu ?</item>
+        <item>Joli Tuba mais pourquoi ?</item>
+        <item>Un Jogging bien chaud pour un entrainement même en Hiver</item>
+        <item>Une Casquette jaune ? Pourquoi pas après tout</item>
+    </string-array>
+
+</resources>
