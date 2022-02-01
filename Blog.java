@@ -127,7 +127,7 @@ public class Blog extends AppCompatActivity {
 
             HashMap<String,String> map= new HashMap<String,String>();
             map.put("message",message.getText().toString());
-            JSONObject object=parser.makeHttpRequest("http://192.168.0.17/challengeMCA/traitement2.php","GET", map);
+            JSONObject object=parser.makeHttpRequest("//lien vers le formulaire php désigné","GET", map);
             return null;
         }
 
@@ -155,7 +155,7 @@ public class Blog extends AppCompatActivity {
 
             HashMap<String,String> map2= new HashMap<String,String>();
             map2.put("recupmessage", "true");
-            JSONObject object2=parser.makeHttpRequest("http://192.168.0.17/challengeMCA/traitement2.php","GET", map2);
+            JSONObject object2=parser.makeHttpRequest("//lien vers le formulaire php désigné","GET", map2);
 
             try {
                 JSONArray users= object2.getJSONArray("message");
